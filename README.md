@@ -1,5 +1,5 @@
 
-# qiitag-link
+# Qiitag Link
 Qiitaのユーザーページにタグ検索のリンクを追加するChrome拡張機能です。
 
 # Install
